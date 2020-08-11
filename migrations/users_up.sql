@@ -1,0 +1,1 @@
+create table users(id serial, username varchar, password varchar)
